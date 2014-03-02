@@ -30,3 +30,6 @@ $ ssh-keygen-t rsa-C " lilunia32@wp.pl "
 # Generowanie publiczny / prywatny RSA parę kluczy. 
 # Wprowadź plik, w którym, aby zapisać klucz (/ c / Users / ty / .ssh / id_rsa): [Wciśnij enter]
  ssh-add id_rsa
+
+$ clip <~ / .ssh / id_rsa.pub 
+# Kopiuje zawartość pliku id_rsa.pub do schowka
