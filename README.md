@@ -25,7 +25,7 @@ $ cd ~ /. ssh
 $ ls-al 
 # listę plików w katalogu ssh.
 
-$ ssh-keygen-t rsa-C " your_email@example.com " 
+$ ssh-keygen-t rsa-C " lilunia32@wp.pl " 
 # Tworzy nowy klucz ssh, za pomocą dostarczonego mail jako etykiety 
 # Generowanie publiczny / prywatny RSA parę kluczy. 
 # Wprowadź plik, w którym, aby zapisać klucz (/ c / Users / ty / .ssh / id_rsa): [Wciśnij enter]
