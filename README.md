@@ -5,7 +5,7 @@ Przebieg stażu - nauczyciela kontraktowego na nauczyciela mianowanego
 $mkdir ~ / Psycholozka
 # Tworzy katalog dla projektu "Psycholozka" w katalogu użytkownika
 
-cd ~ / Psycholozka
+$ cd ~ / Psycholozka
 # Zmienia bieżący katalog roboczy do nowo utworzonego katalogu
 
 git startowych 
@@ -14,8 +14,8 @@ git startowych
 
 dotykać README 
 # Tworzy plik o nazwie "README" w katalogu Psycholozka
-$git add README 
+$ git add README 
 # Stages plik README, dodając go do listy plików do popełnienia
 
-git commit-m 'pierwszy commit " 
+$ git commit-m 'pierwszy commit " 
 # zobowiązuje plików, dodając komunikat "najpierw popełnić"
