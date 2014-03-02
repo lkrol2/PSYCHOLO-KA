@@ -14,3 +14,8 @@ git startowych
 
 dotykać README 
 # Tworzy plik o nazwie "README" w katalogu Psycholozka
+git add README 
+# Stages plik README, dodając go do listy plików do popełnienia
+
+git commit-m 'pierwszy commit " 
+# zobowiązuje plików, dodając komunikat "najpierw popełnić"
