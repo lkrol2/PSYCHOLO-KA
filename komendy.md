@@ -11,3 +11,13 @@ git commit -a -m "komentarz"
 $ Git config - global Emacs core.editor
 
 $ Git config - global merge.tool vimdiff
+
+
+$ Git config - lista
+user.name = Scott Chacon
+user.email = schacon@gmail.com
+color.status = auto
+color.branch = auto
+color.interactive = auto
+color.diff = auto
+...
