@@ -1,5 +1,6 @@
 PSYCHOLO-KA
 ===========
+git checkout-b [nazwa_brancha]
 
 Przebieg stażu - nauczyciela kontraktowego na nauczyciela mianowanego
 $mkdir ~ / Psycholozka
