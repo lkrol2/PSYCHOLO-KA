@@ -25,3 +25,7 @@ color.diff = auto
 
 $ Git config user.name
 Lilka
+
+$ Git help <verb>
+$ Git <verb> - pomoc
+$ Git-<verb> kobieta
