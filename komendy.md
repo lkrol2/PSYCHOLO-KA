@@ -14,8 +14,8 @@ $ Git config - global merge.tool vimdiff
 
 
 $ Git config - lista
-user.name = Scott Chacon
-user.email = schacon@gmail.com
+user.name = Lilka
+user.email = lilunia32@wp.pl
 color.status = auto
 color.branch = auto
 color.interactive = auto
