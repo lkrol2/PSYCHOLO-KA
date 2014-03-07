@@ -1,5 +1,18 @@
 PSYCHOLO-KA
 ===========
+... edycja plikĂłw projektu ...
+git status                   <- sprawdzenie zmian
+git add plik.c               <- dodanie konkretnego pliku LUB...
+git add .                    <- dodanie wszystkich plikĂłw 
+git commit -m "komentarz..." <- opis dokonanych zmian
+
+... edycja, edycja ...
+git status
+git add .                    <- dodanie wszystkich plikĂłw 
+git commit -m "komentarz..." <- opis dokonanych zmian
+... itd
+
+
 cd projekt
 git init
 git add .
