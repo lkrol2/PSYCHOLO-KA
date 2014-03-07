@@ -21,3 +21,7 @@ color.branch = auto
 color.interactive = auto
 color.diff = auto
 ...
+
+
+$ Git config user.name
+Lilka
