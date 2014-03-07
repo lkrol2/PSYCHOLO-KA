@@ -1,5 +1,11 @@
 PSYCHOLO-KA
 ===========
+cd projekt
+git init
+git add .
+git commit -m "pierwsza wrzutka"
+
+
 sudo apt-get install git-core
 git checkout-b [nazwa_brancha]
 
