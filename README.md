@@ -1,5 +1,7 @@
 PSYCHOLO-KA
 ===========
+
+$ git init
 ... edycja plikĂłw projektu ...
 git status                   <- sprawdzenie zmian
 git add plik.c               <- dodanie konkretnego pliku LUB...
