@@ -7,3 +7,5 @@ git commit -m "komentarz"
 git add plik.c
 
 git commit -a -m "komentarz"
+
+$ Git config - global Emacs core.editor
