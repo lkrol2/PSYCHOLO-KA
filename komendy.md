@@ -29,3 +29,6 @@ Lilka
 $ Git help <verb>
 $ Git <verb> - pomoc
 $ Git-<verb> kobieta
+
+
+$ Git help config
