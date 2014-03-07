@@ -9,3 +9,5 @@ git add plik.c
 git commit -a -m "komentarz"
 
 $ Git config - global Emacs core.editor
+
+$ Git config - global merge.tool vimdiff
