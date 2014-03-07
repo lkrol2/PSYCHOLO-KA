@@ -1,5 +1,6 @@
 PSYCHOLO-KA
 ===========
+sudo apt-get install git-core
 git checkout-b [nazwa_brancha]
 
 Przebieg stażu - nauczyciela kontraktowego na nauczyciela mianowanego
