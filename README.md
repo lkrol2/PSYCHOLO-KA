@@ -1,5 +1,8 @@
 PSYCHOLO-KA
 ===========
+git checkout index.html
+
+
 
 $ git init
 ... edycja plikĂłw projektu ...
