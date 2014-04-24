@@ -78,8 +78,8 @@ ___mgr Liliana Król, psycholog___
 <br>stanowisko: psycholog szkolny
 - **2009r. - ...** Gimnazjum nr 2 im.Janusza Korczaka w Rumi
 <br>stanowisko: psycholog szkolny
--**lato 2009r.\ 2010r.** - Wychowawca Kolonii w Makowie Podhalańskim
--**zima 2014r.** - Wychowawca Półkolonii organizowanych przez SALOS Rumia
+- **lato 2009r.\ 2010r.** - Wychowawca Kolonii w Makowie Podhalańskim
+- **zima 2014r.** - Wychowawca Półkolonii organizowanych przez SALOS Rumia
 
 ##**6. Działalność lokalna**:
 - Współpraca z Poradnią Psychologiczno-Pedagogiczną 
