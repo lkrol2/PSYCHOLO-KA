@@ -86,7 +86,7 @@ ___mgr Liliana Król, psycholog___
 - Członkostwo w komisji egzaminacyjnej 
 - Koordynacja zespołu pomocy psychologiczno-pedagogicznej 
 - Prowadzenie zajęć w programie profilaktyki i promocji zdrowia ___"Zachowaj Trzeźwy Umysł", "Znajdź Właściwe Rozwiązanie", "Nie pal przy mnie proszę", "Czyste powietrze wokół nas"___
-![](http://swidnica24.pl/wp-content/uploads/2012/04/trze%C5%BAwy-umys%C5%82-300x191.jpg), ![]()
+
 ##**7.Przynależność do organizacji**:
 - Związek Nauczycielstwa Polskiego
 
