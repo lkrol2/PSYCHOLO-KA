@@ -25,42 +25,51 @@ ___mgr Liliana Król, psycholog___
 <br> _SAMOOCENA JAWNA I NIEJAWNA FUNKCJONARIUSZY STRAŻY GRANICZNEJ I ŻOŁNIERZY WOJSKA POLSKIEGO ORAZ ICH POSTAWA WOBEC SŁUŻBY MUNDUROWEJ_.
 
 **2. Zrealizowane kursy/ szkolenia**:
-<br> -
-<br> -
-<br> -
-<br> -
-<br> -
-<br> -
-<br> -
-<br> -
-<br> -
-<br> -
-<br> -
-<br> -
-<br> -
-<br> -
-<br> -
-<br> -
-<br> -
-<br> -
-<br> -
-<br> -
-<br> -
-<br> -
-<br> -
-<br> -
-<br> -
-<br> -
-<br> -
-<br> -
-<br> -
-<br> -
-<br> -
-<br> -
-<br> -
-<br> -
-<br> -
-<br> -
+<br> - _Kurs Kwalifikacyjny Pedagogiczny dla czynnych zawodowo nauczycieli - OUPiS Gdańsk_
+<br> - _Kurs Kwalifikacyjny z zakresu Oligofrenopedagogiki - ODN Gdańsk_
+<br> - _Kurs przygotowawaczy dla kandydatów na wychowawców placówek wypoczynku dla dzieci i młodzieży szkolnej - Centrum Kształcenia Liderów i Wychowawców ARRUPE_
+ 
+<br> - _Kurs e-learning "Psychologiczne aspekty wspierania rozwoju uczniów" - Akademia Profesjonalnego Nauczyciela_
+<br> - _Kurs e-learning "Substancje psychoaktywne w szkole i wśród uczniów, metody wczesnej interwencji" - Akademia Profesjonalnego Nauczyciela_
+
+<br> - _Seminarium: "Organizacja pracy szkoły zgodnie z nową podstawą programową" - Instytut Kształcenia EKO TUR_
+<br> - _Seminarium: "Ewaluacja różnych obszarów pracy szkoły" - Instytut Kształcenia EKO TUR_
+<br> - _Seminarium: "Praca metodą projektów w gimnazjum" - Instytut Kształcenia EKO TUR_
+<br> - _Seminarium: "Projekty edukacyjne" - Instytut Kształcenia EKO TUR_
+<br> - _Seminarium: " " - Instytut Kształcenia EKO TUR_
+<br> - _Seminarium: " " - Instytut Kształcenia EKO TUR_
+<br> - _Seminarium: " " - Instytut Kształcenia EKO TUR_
+<br> - _Seminarium: " " - Instytut Kształcenia EKO TUR_
+
+<br> - _Udział w Ogólnopolskiej Kampanii Profilaktycznej "Zachowaj Trzeźwy Umysł" w latach 2010_
+<br> - _Udział w Kampanii "Nie pal przy mnie proszę", "Znajdź właściwe rozwiązanie" w latach 2010\2011_
+
+<br> - _Szkolenie w dziedzinie bezpieczeństwa i higeny pracy - Ośrodek Kształcenia i Doskonalenia Gdynia_
+<br> - _Szkolenie dla kadry pomocy społecznej nt. wspracia ofiar handlu - Ministerstwo Pracy i Polityki Społecznej Warszawa_
+<br> - _Szkolenie "Konferencja Grupy Rodzinnej" - Urząd Marszałkowski Województwa Pomorskiego_
+
+
+<br> - _I Pomorska Konferencja Poradni Psychologiczno - Pedagogicznych - Gdynia_
+<br> - _Konferencja "Pomóż mi zrozumieć kim jestem - czyli praca z uczniem przeżywającym trudności" - Centrum Arrupe_
+<br> - _Konferencja "Bunt Nastolatka - zagrożenie czy szansa" - Centrum ARRUPE_
+<br> - _Konferencja "Wychowanie Seksualne w szkole" - Centrum ARRUPE_
+<br> - _Konferencja "Metody i formy pracy z uczniem niepełnosprawnym w klasie integracyjnej" - Szkoła Podstawowa nr 34 Gdynia_
+
+<br> - _Spotkanie Informacyjne "Wdrażanie podstawy programowej wychowania przedszkolnego oraz kształcenia ogólnego w poszczególnych typach szkół" - Powiatowy Ośrodek Doradztwa i Doskonalenia Nauczycieli w Kartuzach_
+<br> - _ _
+<br> - _ _
+<br> - _ _
+<br> - _ _
+<br> - _ _
+<br> - _ _
+<br> - _ _
+<br> - _ _
+<br> - _ _
+<br> - _ _
+<br> - _ _
+<br> - _ _
+<br> - _ _
+<br> - _ _
 
 ### 3. Rozpoczęłam Studia Podyplomowe z Podstaw Informatyki na Wydziale Matematyki i Informatyki Stosowanej Uniwersytet Gdański.
 
