@@ -2,7 +2,7 @@
 ==========
 ___mgr Liliana Król, psycholog___
 
-## Wykształcenie
+## **Wykształcenie**
 
 **1. Studia magisterskie na kierunku psychologia w Wyższej Szkole Psychologii Społecznej w Sopocie**.
 <br> **Ważniejsze fakultety i moduły specjalistyczne**:
@@ -28,6 +28,7 @@ ___mgr Liliana Król, psycholog___
 <br> - _Kurs przygotowawaczy dla kandydatów na wychowawców placówek wypoczynku dla dzieci i młodzieży szkolnej - Centrum Kształcenia Liderów i Wychowawców ARRUPE_
 <br> - _Kurs Instruktażowy dla kierowników wycieczek szkolnych zorganizowany przez Biuro Usługowo - Szkoleniowe BHP_
 <br> - _Szkolenie "Podstawowe zasady postępowania w wybranych stanach zagrożenia życia" - RAT - MED_
+<br> - _I moduł V edycji specjalistycznego szkolenia w dziedzinie uzależnień od narkotyków w zakresie Specjalisty Terapii Uzależnień, organizowanej przez Polską Federację Społeczności Terapeutycznych - Ośrodek Profilaktyki i Edukacji Psychologicznej w Gdańsku_
 <br> - _Kurs e-learning "Psychologiczne aspekty wspierania rozwoju uczniów" - Akademia Profesjonalnego Nauczyciela_
 <br> - _Kurs e-learning "Substancje psychoaktywne w szkole i wśród uczniów, metody wczesnej interwencji" - Akademia Profesjonalnego Nauczyciela_
 <br> - _Kurs e-learning "Diagnoza i terapia psychologiczno - pedagogiczna" - SPE Warszawa_
@@ -63,27 +64,34 @@ ___mgr Liliana Król, psycholog___
 <br> - _Spotkanie Informacyjne "Wdrażanie podstawy programowej wychowania przedszkolnego oraz kształcenia ogólnego w poszczególnych typach szkół" - Powiatowy Ośrodek Doradztwa i Doskonalenia Nauczycieli w Kartuzach_
 <br> - _Udział w Ogólnopolskiej Kampanii Edukacyjno - Profilaktycznej "Zachowaj Trzeźwy Umysł" w latach 2010 - 2014_
 <br> - _Udział w Kampanii "Nie pal przy mnie proszę", "Znajdź właściwe rozwiązanie" w latach 2010\2011_
-### 3. Rozpoczęłam Studia Podyplomowe z Podstaw Informatyki na Wydziale Matematyki i Informatyki Stosowanej Uniwersytet Gdański.
-### 4. Programy:
-<br> - Program Profilaktyczny dla uczniów klas I - III SP **"Parasol"** 
+<br>**3. Rozpoczęłam Studia Podyplomowe z Podstaw Informatyki na Wydziale Matematyki i Informatyki Stosowanej Uniwersytet Gdański**.
+##**4. Programy**:
+- Program Profilaktyczny dla uczniów klas I - III SP **"Parasol"** 
 <br>[Prezentacja Program Profilaktyczny](http://slides.com/lkrol2/parasol)
-<br> - Innowacja Pedagogiczna wprowadzająca program orientacji zawodowej do gimnazjum **"Od gimnazjalisty do perfekcjonisty"** 
-### 5. Praktyka zawodowa:
+- Innowacja Pedagogiczna wprowadzająca program orientacji zawodowej do gimnazjum **"Od gimnazjalisty do perfekcjonisty"** 
 
+##**5. Praktyka zawodowa**:
+- 2008r. - 2009r. - Placówka Wielofunkcyjna w Kłaninie
+<br>stanowisko: psycholog
+- 2008r. – 2009r.	Zespół Szkół im. Władysława Konefki w Starzynie 
+<br>stanowisko: psycholog szkolny
+- 2009r. – ...	Zespół Szkół im. Pawła Góry w Mrzezinie
+<br>stanowisko: psycholog szkolny
+- 2009r. - ... Gimnazjum nr 2 im.Janusza Korczaka w Rumi
+- <br>stanowisko: psycholog szkolny
+lato 2009r.\ 2010r. - Wychowawca Kolonii w Makowie Podhalańskim
+- zima 2014r. - Wychowawca Półkolonii organizowanych przez SALOS Rumia
 
+##**6. Działalność lokalna**:
+<br> - Współpraca z Poradnią Psychologiczno-Pedagogiczną 
+<br> - Członkostwo w komisji egzaminacyjnej 
+<br> - Koordynacja zespołu pomocy psychologiczno-pedagogicznej 
+<br> - Prowadzenie zajęć w programie profilaktyki i promocji zdrowia ___"Zachowaj Trzeźwy Umysł", "Znajdź Właściwe Rozwiązanie", "Nie pal przy mnie proszę", "Czyste powietrze wokół nas"___
 
-
-### 6.Działalność lokalna:
-
-    Współpraca z Poradnią Psychologiczno-Pedagogiczną 
-    Członkostwo w komisji egzaminacyjnej 
-    Koordynacja zespołu pomocy psychologiczno-pedagogicznej 
-    Prowadzenie zajęć w programie profilaktyki i promocji zdrowia "Zachowaj Trzeźwy Umysł", "Znajdź Właściwe Rozwiązanie", "Nie pal przy mnie proszę", "Czyste powietrze wokół nas"
-
-### 7.Przynależność do organizacji:
+##**7.Przynależność do organizacji**:
 <br> - Związek Nauczycielstwa Polskiego
 
-### 8.Nagrody:
+##**8.Nagrody**:
 <br> Nagroda Dyrektora Szkoły w Mrzezinie
 <br> Nagroda Dyrektora Szkoły w Rumi
 
