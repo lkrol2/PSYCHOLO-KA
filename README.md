@@ -63,10 +63,12 @@ ___mgr Liliana Król, psycholog___
 - _Udział w Kampanii "Nie pal przy mnie proszę", "Znajdź właściwe rozwiązanie" w latach 2010\2011_
 
 **3. Rozpoczęłam Studia Podyplomowe z Podstaw Informatyki na Wydziale Matematyki i Informatyki Stosowanej Uniwersytet Gdański oraz Kurs kwalifikacyjny dla oświatowej kadry kierowniczej ODN Lingwista Gdańsk**.
+
 ##**4. Programy**:
 - Program Profilaktyczny dla uczniów klas I - III SP **"Parasol"** 
 <br>[Prezentacja Program Profilaktyczny](http://slides.com/lkrol2/parasol)
 - Innowacja Pedagogiczna wprowadzająca program orientacji zawodowej do gimnazjum **"Od gimnazjalisty do perfekcjonisty"** 
+
 ##**5. Praktyka zawodowa**:
 - **2008r. - 2009r.** - Placówka Wielofunkcyjna w Kłaninie
 <br>stanowisko: psycholog
@@ -78,15 +80,18 @@ ___mgr Liliana Król, psycholog___
 <br>stanowisko: psycholog szkolny
 -**lato 2009r.\ 2010r.** - Wychowawca Kolonii w Makowie Podhalańskim
 -**zima 2014r.** - Wychowawca Półkolonii organizowanych przez SALOS Rumia
+
 ##**6. Działalność lokalna**:
-<br> - Współpraca z Poradnią Psychologiczno-Pedagogiczną 
-<br> - Członkostwo w komisji egzaminacyjnej 
-<br> - Koordynacja zespołu pomocy psychologiczno-pedagogicznej 
-<br> - Prowadzenie zajęć w programie profilaktyki i promocji zdrowia ___"Zachowaj Trzeźwy Umysł", "Znajdź Właściwe Rozwiązanie", "Nie pal przy mnie proszę", "Czyste powietrze wokół nas"___
+- Współpraca z Poradnią Psychologiczno-Pedagogiczną 
+- Członkostwo w komisji egzaminacyjnej 
+- Koordynacja zespołu pomocy psychologiczno-pedagogicznej 
+- Prowadzenie zajęć w programie profilaktyki i promocji zdrowia ___"Zachowaj Trzeźwy Umysł", "Znajdź Właściwe Rozwiązanie", "Nie pal przy mnie proszę", "Czyste powietrze wokół nas"___
+![](http://swidnica24.pl/wp-content/uploads/2012/04/trze%C5%BAwy-umys%C5%82-300x191.jpg), ![]()
 ##**7.Przynależność do organizacji**:
-<br> - Związek Nauczycielstwa Polskiego
+- Związek Nauczycielstwa Polskiego
+
 ##**8.Nagrody**:
-<br> Nagroda Dyrektora Szkoły w Mrzezinie
+Nagroda Dyrektora Szkoły w Mrzezinie
 <br> Nagroda Dyrektora Szkoły w Rumi
 
  
