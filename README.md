@@ -1,29 +1,30 @@
 # Curriculum vitae
 ==========
-mgr Liliana Król, psycholog
+___mgr Liliana Król, psycholog___
 
 
 ## Wykształcenie
 
-### __**1. Studia magisterskie na kierunku psychologia w Wyższej Szkole Psychologii Społecznej w Sopocie.
-Ważniejsze fakultety i moduły specjalistyczne__**:
-<br> - moduł specjalizacyjny Stosowana Psychologia Twórczości 
-<br> - ścieżki modułu Psychologii klinicznej: PROFILAKTYKA I TERAPIA UZALEŻNIEŃ, INTERWENCJA KRYZYSOWA
-<br> - Zarządzanie zespołem
-<br> -Psychoonkologia
-<br> -Psychologia zdrowia
-<br> -Społeczeństwo wielokulturowe
-<br> -Zaburzenia rozwoju mowy – diagnoza, terapia i  profilaktyka
-<br> -Praktyka psychologa w szpitalu
-<br> -Psychologia chirurgii
-<br> -Pro-zdrowotne oddziaływanie diety
-<br> -Patologia rodziny
-<br> -Wspomaganie rozwoju uczniów z dysleksją rozwojową
-<br> -Marketing polityczny. 
+**1. Studia magisterskie na kierunku psychologia w Wyższej Szkole Psychologii Społecznej w Sopocie.
+<br> Ważniejsze fakultety i moduły specjalistyczne**:
+<br> - _moduł specjalizacyjny Stosowana Psychologia Twórczości_
+<br> - _ścieżki modułu Psychologii klinicznej: PROFILAKTYKA I TERAPIA UZALEŻNIEŃ, INTERWENCJA KRYZYSOWA_
+<br> - _Zarządzanie zespołem_
+<br> -_Psychoonkologia_
+<br> -_Psychologia zdrowia_
+<br> -_Społeczeństwo wielokulturowe_
+<br> -_Zaburzenia rozwoju mowy – diagnoza, terapia i  profilaktyka_
+<br> -_Praktyka psychologa w szpitalu_
+<br> -_Psychologia chirurgii_
+<br> -_Pro-zdrowotne oddziaływanie diety_
+<br> -_Patologia rodziny_
+<br> -_Wspomaganie rozwoju uczniów z dysleksją rozwojową_
+<br> -_Marketing polityczny_. 
 
-<br> Temat pracy magisterskiej: SAMOOCENA JAWNA I NIEJAWNA FUNKCJONARIUSZY STRAŻY GRANICZNEJ I ŻOŁNIERZY WOJSKA POLSKIEGO ORAZ ICH POSTAWA WOBEC SŁUŻBY MUNDUROWEJ.
+<br> **Temat pracy magisterskiej**: 
+<br> _SAMOOCENA JAWNA I NIEJAWNA FUNKCJONARIUSZY STRAŻY GRANICZNEJ I ŻOŁNIERZY WOJSKA POLSKIEGO ORAZ ICH POSTAWA WOBEC SŁUŻBY MUNDUROWEJ_.
 
-### 2. Zrealizowane kursy/ szkolenia:
+**2. Zrealizowane kursy/ szkolenia**:
 <br> -
 <br> -
 <br> -
